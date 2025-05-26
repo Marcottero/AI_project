@@ -145,7 +145,7 @@ config = {
 ```
 
 ## 📋 Requirements
-
+- label studio
 - Python 3.8+
 - PyTorch 1.9+
 - torchvision 0.10+
@@ -183,14 +183,6 @@ The model is evaluated using:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For questions or collaboration opportunities, please open an issue or contact the development team.
 
 ---
 
