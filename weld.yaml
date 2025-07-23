@@ -1,0 +1,10 @@
+train: C:/Users/k1020696/CV_project/obj_det_weld/train/images
+val: C:/Users/k1020696/CV_project/obj_det_weld/val/images
+
+nc: 3
+# Number of classes
+
+names:
+- ok_weld
+- miss_weld
+- error_weld

@@ -1,0 +1,8 @@
+train: C:/Users/k1020696/CV_project/obj_det_text/train/images
+val: C:/Users/k1020696/CV_project/obj_det_text/val/images
+
+nc: 2
+
+names:
+- bom
+- title_block
